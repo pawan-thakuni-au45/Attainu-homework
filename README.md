@@ -13,3 +13,5 @@ git checkout-n Git, the term checkout is used for the act of switching between d
 mkdir-its make new folder
 ls-a-by using it we can see hidden files
 cool
+
+this is my last line
