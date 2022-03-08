@@ -12,3 +12,4 @@ git clone-git clone is a Git command line utility which is used to target an exi
 git checkout-n Git, the term checkout is used for the act of switching between different versions of a target entity
 mkdir-its make new folder
 ls-a-by using it we can see hidden files
+cool
